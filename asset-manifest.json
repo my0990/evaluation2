@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/evaluation2/static/css/main.073c9b0a.css",
+    "main.js": "/evaluation2/static/js/main.5c9fe204.js",
+    "static/js/787.6540aa4d.chunk.js": "/evaluation2/static/js/787.6540aa4d.chunk.js",
+    "static/media/11단원.txt": "/evaluation2/static/media/11단원.889a1170330a4f8e7af4.txt",
+    "static/media/12단원.txt": "/evaluation2/static/media/12단원.87b57557dbaac03c4ee9.txt",
+    "static/media/8단원.txt": "/evaluation2/static/media/8단원.c6899ea2fa0ed9655a51.txt",
+    "static/media/7단원.txt": "/evaluation2/static/media/7단원.5ef62478908a66855807.txt",
+    "static/media/logo.svg": "/evaluation2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/10단원.txt": "/evaluation2/static/media/10단원.a800af0c5e57c112a90e.txt",
+    "static/media/9단원.txt": "/evaluation2/static/media/9단원.1a2752ebde93f11d6c69.txt",
+    "index.html": "/evaluation2/index.html",
+    "main.073c9b0a.css.map": "/evaluation2/static/css/main.073c9b0a.css.map",
+    "main.5c9fe204.js.map": "/evaluation2/static/js/main.5c9fe204.js.map",
+    "787.6540aa4d.chunk.js.map": "/evaluation2/static/js/787.6540aa4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5c9fe204.js"
+  ]
+}
